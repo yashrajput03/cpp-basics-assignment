@@ -1,0 +1,9 @@
+Cpp assignment Basics/
+ ans-1:- we can output physics and wallah in two different line in c++ then we can use endl,
+          cout<<"physics"<<endl;
+          cout<<"wallah"<<endl;
+ans 3:-  int 4 byte
+         bool 1 byte
+         float 4 byte
+ans 4:-  6 3
+ans 6:-  3: 01Pwskills, _FLOAT, FLOAT
